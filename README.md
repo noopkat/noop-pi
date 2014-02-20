@@ -8,6 +8,7 @@ pi stuff that gets me by
 ## List of resources to get set up
 
 **Basic setup**
++ use NOOBS! [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads)
 + [blog.rueedlinger.ch/2013/03/raspberry-pi-and-nodejs-basic-setup](http://blog.rueedlinger.ch/2013/03/raspberry-pi-and-nodejs-basic-setup/)
 
 **Setting up VNC screensharing**

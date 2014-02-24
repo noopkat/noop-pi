@@ -24,3 +24,6 @@ pi stuff that gets me by
 
 **Bluetooth keyboard**
 + [ctheroux.com/2012/08/a-step-by-step-guide-to-setup-a-bluetooth-keyboard-and-mouse-on-the-raspberry-pi](http://www.ctheroux.com/2012/08/a-step-by-step-guide-to-setup-a-bluetooth-keyboard-and-mouse-on-the-raspberry-pi)
+
+**Shutting down your Pi - different software and hardware solutions**
++ [raspberrypi.stackexchange.com/questions/381/how-do-i-turn-off-my-raspberry-pi](http://raspberrypi.stackexchange.com/questions/381/how-do-i-turn-off-my-raspberry-pi)

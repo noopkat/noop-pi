@@ -8,13 +8,14 @@ pi stuff that gets me by
 ## List of resources to get set up
 
 **Basic setup**
++ use NOOBS! [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads)
 + [blog.rueedlinger.ch/2013/03/raspberry-pi-and-nodejs-basic-setup](http://blog.rueedlinger.ch/2013/03/raspberry-pi-and-nodejs-basic-setup/)
 
 **Setting up VNC screensharing**
 + [andrewmunsell.com/blog/setting-up-raspberry-pi-as-headless-device](http://www.andrewmunsell.com/blog/setting-up-raspberry-pi-as-headless-device)
 
 **Multiple wifi networks**
-+ [instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks]http://www.instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks
++ [instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks](http://www.instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks)
 
 **Fixing wifi from sleeping**
 + [electronut.in/preventing-raspberry-pi-wifi-from-going-into-sleep-mode](http://electronut.in/preventing-raspberry-pi-wifi-from-going-into-sleep-mode)
@@ -27,3 +28,4 @@ pi stuff that gets me by
 
 **Shutting down your Pi - different software and hardware solutions**
 + [raspberrypi.stackexchange.com/questions/381/how-do-i-turn-off-my-raspberry-pi](http://raspberrypi.stackexchange.com/questions/381/how-do-i-turn-off-my-raspberry-pi)
+
